@@ -16,10 +16,10 @@ Currently, I am exploring the fascinating intersection of **AI and emotional dep
 
 ## 💼 Experience
 
-- **Stanford Healthcare Technology & Digital Solutions**: Finance & Business Ops Intern (2025–Present)
-- **NYU Langone Health**: Senior Business Intelligence (Contract: Clairvoyant Pvt. Ltd., 2021–2023)
-- **Sutter Health**: Business Intelligence Developer (Contract: Deloitte Consulting, 2019–2021)
-- **CommonSpirit Health (formerly Catholic Health Initiatives)**: Consultant (Associate Lead, 2014–2019)
+- **Stanford Healthcare Technology & Digital Solutions**
+- **NYU Langone Health**
+- **Sutter Health**
+- **CommonSpirit Health (formerly Catholic Health Initiatives)**
 
 ---
 
@@ -37,9 +37,9 @@ Currently, I am exploring the fascinating intersection of **AI and emotional dep
 
 ## 🎓 Education & Certifications
 
-- **MS – Health Data Analytics**, University of North Texas (Fall 2024)
-- **MBA – Hospital & Healthcare Management**, Apollo Institute (2014)
-- **BTech – Computer Science Engineering**, Malla Reddy Engineering College (2011)
+- **MS – Health Data Analytics**, 
+- **MBA – Hospital & Healthcare Management**
+- **BTech – Computer Science Engineering** 
 - **Certifications**: Epic ASAP, Cogito, Clarity/Caboodle Data Models, MySQL, Python Basics, ITIL, Six Sigma Green Belt
 
 ---
