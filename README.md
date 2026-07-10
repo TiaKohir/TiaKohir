@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Teija Hebshibah Kohir (TiaKohir)
+# 👋 Hi, I'm Tia
 
 **Healthcare Informatics & Analytics Specialist | Data Engineer | AI Research Enthusiast**
 
@@ -54,11 +54,11 @@ Currently, I am exploring the fascinating intersection of **AI and emotional dep
 
 ## 🔬 Featured Projects
 
-- **Alzheimer's and Healthy Aging Dashboard**: [Portfolio](https://tiakohir.framer.website/)
+- **Alzheimer's and Healthy Aging Dashboard**
 - **Hospital Collaboration Study**: Strategic process optimization for better patient care
 - **Breast Cancer Classification (ML)**: Achieved ~96% accuracy with Random Forest, Naive Bayes, SVM
 - **Housing Price Trends Pre/Post-COVID**: Regression analysis for resilience insights  
-*See more on my [Portfolio](https://tiakohir.framer.website/)*
+*See more on my portfolio*
 
 ---
 
@@ -77,7 +77,7 @@ Currently, I am exploring the fascinating intersection of **AI and emotional dep
 ## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/teijahebshibah-tia/)
-- [Portfolio](https://tiakohir.framer.website/)
+- [Portfolio](https://tiakohir.github.io/)
 - Email: teijahebshibah@gmail.com (DM for collaboration)
 
 ---
