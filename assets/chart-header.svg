@@ -9,10 +9,10 @@
       <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/>
       <stop offset="25%" stop-color="#22d3ee" stop-opacity="1"/>
       <stop offset="60%" stop-color="#a78bfa" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#fb7185" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#34d399" stop-opacity="1"/>
     </linearGradient>
     <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#22d3ee"/><stop offset="28%" stop-color="#34d399"/><stop offset="50%" stop-color="#a78bfa"/><stop offset="76%" stop-color="#fbbf24"/><stop offset="100%" stop-color="#fb7185"/>
+      <stop offset="0%" stop-color="#22d3ee"/><stop offset="27%" stop-color="#60a5fa"/><stop offset="50%" stop-color="#a78bfa"/><stop offset="75%" stop-color="#fbbf24"/><stop offset="100%" stop-color="#34d399"/>
     </linearGradient>
     <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
       <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#93c5fd" stroke-opacity="0.10" stroke-width="1"/>
@@ -30,17 +30,17 @@
     <text x="52" y="44" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2.5" fill="#93c5fd">CLINICAL CHART</text>
 
     <!-- name + subtitle -->
-    <text x="40" y="108" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#eff6ff" letter-spacing="-1">Tia Kohir</text>
-    <text x="42" y="142" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#dbeafe">I measure what AI is actually worth to a hospital. Nine-plus years provider-side.</text>
+    <text x="40" y="108" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#eff6ff" letter-spacing="-1">Teija Hebshibah</text>
+    <text x="42" y="142" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#dbeafe">I measure what AI is actually worth to a hospital. Nine-plus years provider-side.</text>
 
     <!-- face-sheet fields -->
-    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#bfdbfe">
-      <text x="42" y="196"><tspan fill="#60a5fa" font-weight="700">MRN</tspan>  TiaKohir</text>
-      <text x="232" y="196"><tspan fill="#60a5fa" font-weight="700">DOB</tspan>  2014 · first Epic go-live</text>
-      <text x="548" y="196"><tspan fill="#fb7185" font-weight="700">SVC</tspan>  AI ROI · Clinical data</text>
-      <text x="42" y="222"><tspan fill="#60a5fa" font-weight="700">LOC</tspan>  Bay Area</text>
-      <text x="232" y="222"><tspan fill="#fbbf24" font-weight="700">ALLERGIES</tspan>  <tspan fill="#fde68a">Unmeasured ROI (severe)</tspan></text>
-      <text x="548" y="222"><tspan fill="#60a5fa" font-weight="700">CODE STATUS</tspan>  Full code. SQL first.</text>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15.5" fill="#bfdbfe">
+      <text x="42" y="194"><tspan fill="#60a5fa" font-weight="700">MRN</tspan>  TiaKohir</text>
+      <text x="250" y="194"><tspan fill="#60a5fa" font-weight="700">DOB</tspan>  2014 · first Epic go-live</text>
+      <text x="560" y="194"><tspan fill="#34d399" font-weight="700">SVC</tspan>  AI ROI · Clinical data</text>
+      <text x="42" y="224"><tspan fill="#60a5fa" font-weight="700">LOC</tspan>  Bay Area</text>
+      <text x="250" y="224"><tspan fill="#fbbf24" font-weight="700">ALLERGIES</tspan>  <tspan fill="#fde68a">Unmeasured ROI</tspan></text>
+      <text x="560" y="224"><tspan fill="#60a5fa" font-weight="700">CODE STATUS</tspan>  Full code. SQL first.</text>
     </g>
 
     <!-- ECG trace, right side -->
@@ -51,12 +51,12 @@
         stroke-dasharray="1100" stroke-dashoffset="1100">
         <animate attributeName="stroke-dashoffset" from="1100" to="0" dur="3.2s" repeatCount="indefinite"/>
       </path>
-      <circle r="4" fill="#fecdd3">
+      <circle r="4" fill="#d1fae5">
         <animateMotion dur="3.2s" repeatCount="indefinite" rotate="0">
           <mpath xlink:href="#ecg"/>
         </animateMotion>
       </circle>
-      <text x="300" y="232" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.5" fill="#60a5fa" text-anchor="middle">post-deployment · still measuring</text>
+      <text x="300" y="232" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#93c5fd" text-anchor="middle">post-deployment · still measuring</text>
     </g>
   </g>
 </svg>
