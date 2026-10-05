@@ -152,12 +152,7 @@ What happens to clinical AI *after* deployment. Synthetic data only. No PHI, any
 
 <br/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TiaKohir/TiaKohir/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/TiaKohir/TiaKohir/output/github-contribution-grid-snake.svg" alt="Contribution graph, eaten by a snake" width="100%" />
-  </picture>
-</p>
+<!-- contribution snake parked until GitHub-hosted runners recover; workflow stays in .github/workflows/snake.yml -->
 
 <p align="center">
   <sub>Chart closed. No PHI was used in the making of this README.</sub>
