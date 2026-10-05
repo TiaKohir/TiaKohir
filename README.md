@@ -1,4 +1,4 @@
-<!-- TiaKohir / README.md — profile README, "clinical chart" edition (short form) -->
+<!-- TiaKohir / README.md — profile README, "clinical chart" edition (visual) -->
 
 <p align="center">
   <img src="assets/chart-header.svg" alt="Tia Kohir — clinical chart header. MRN TiaKohir · DOB 2014, first Epic go-live · Service: AI ROI, clinical data · Location: Bay Area" width="100%" />
@@ -19,89 +19,38 @@
 
 <br/>
 
-## 🩺 Chief Complaint
+<p align="center">
+  <img src="assets/clip-ehr-to-roi.svg" alt="Animated clip — From the EHR to the ROI: EHR workflows → clinical data → clinical AI → clinician adoption → measured value" width="100%" />
+</p>
 
-> **"We deployed the AI. What is it worth?"**
-
-Every hospital asks it after go-live. Vendors answer with accuracy. The CFO wants a number. I build the bridge between the two: a defensible, post-deployment value figure for each clinical AI tool a health system runs.
-
-<br/>
-
-## 💼 What I Do
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 💰 AI ROI for hospitals
-
-Benefit attribution for *deployed* clinical AI. Not the vendor's slide. What actually changed, measured against a baseline, with the displacement effects counted.
-
-</td>
-<td width="33%" valign="top">
-
-### 🧬 Clinical data engineering
-
-Epic Clarity / Caboodle → OMOP CDM on Databricks and Microsoft Fabric. Data-quality gates that stop bad data before it becomes a bad number.
-
-</td>
-<td width="33%" valign="top">
-
-### 🩺 Workflow → product
-
-Six Epic modules on the build side. Clinician behavior (audit logs, clickstream) turned into product requirements. The human in the loop gets stronger, not redundant.
-
-</td>
-</tr>
-</table>
+> **"We deployed the AI. What is it worth?"** Every hospital asks it after go-live. Vendors answer with accuracy. The CFO wants a number. I build the bridge.
 
 <br/>
 
-## 📈 Vitals
+<p align="center">
+  <img src="assets/clip-product-lens.svg" alt="Product lens — Frame the clinician's problem, prioritize the backlog with a score, ship and measure value against a baseline. Then loop." width="100%" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="assets/panel-health-systems.svg" alt="Health systems I've built inside — CommonSpirit Health: Epic build side. Sutter Health: BI and ETL. NYU Langone Health: clinical analytics. Stanford Health Care: AI value and product." width="100%" />
+</p>
 
 <table align="center">
 <tr>
 <td align="center" width="25%"><b>9+</b><br/><sub>years, provider-side</sub></td>
-<td align="center" width="25%"><b>4</b><br/><sub>health systems</sub></td>
 <td align="center" width="25%"><b>4</b><br/><sub>live AI tools value-assessed</sub></td>
 <td align="center" width="25%"><b>6</b><br/><sub>Epic modules certified</sub></td>
+<td align="center" width="25%"><b>5</b><br/><sub>public research repos</sub></td>
 </tr>
 </table>
-
-<br/>
-
-## 🏥 Where I've Done It
-
-| Health system | Years | Inside the workflow |
-|---|---|---|
-| **Stanford Health Care** — Technology & Digital Solutions | 2025–26 | Value assessment of four live clinical AI automations · AI backlog prioritization · 14K-record predictive model on Databricks / Azure |
-| **NYU Langone Health** | 2021–23 | Oncology data marts (Hadoop / Impala) · led the ETL audit · Collibra governance |
-| **Sutter Health** | 2019–21 | BI and ETL development · KPI reporting |
-| **CommonSpirit Health** | 2014–19 | Epic build — ASAP, SmartForms, Cogito, Clarity, Caboodle |
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Epic-Clarity%20%C2%B7%20Caboodle%20%C2%B7%20Cogito-1e3a8a?style=flat-square" alt="Epic" />
-  <img src="https://img.shields.io/badge/SQL-1e3a8a?style=flat-square" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-1e3a8a?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Databricks-1e3a8a?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
-  <img src="https://img.shields.io/badge/PySpark-1e3a8a?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
-  <img src="https://img.shields.io/badge/Delta%20Lake-1e3a8a?style=flat-square" alt="Delta Lake" />
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-1e3a8a?style=flat-square" alt="Microsoft Fabric" />
-  <img src="https://img.shields.io/badge/dbt-1e3a8a?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/Azure-1e3a8a?style=flat-square" alt="Azure" />
-  <img src="https://img.shields.io/badge/OMOP%20CDM-1e3a8a?style=flat-square" alt="OMOP CDM" />
-  <img src="https://img.shields.io/badge/FHIR-1e3a8a?style=flat-square" alt="FHIR" />
-  <img src="https://img.shields.io/badge/Power%20BI%20%C2%B7%20Tableau-1e3a8a?style=flat-square" alt="Power BI and Tableau" />
-  <img src="https://img.shields.io/badge/LLM%20eval-Claude%20%C2%B7%20GPT%20%C2%B7%20Gemini-1e3a8a?style=flat-square" alt="LLM evaluation" />
-  <img src="https://img.shields.io/badge/CSPO-1e3a8a?style=flat-square" alt="CSPO" />
-  <img src="https://img.shields.io/badge/Six%20Sigma%20Green%20Belt-1e3a8a?style=flat-square" alt="Six Sigma Green Belt" />
-</p>
 
 <br/>
 
 ## 🩻 Imaging — the AI Lab
 
-Public research on what happens to clinical AI *after* deployment. Synthetic data only. No PHI, anywhere.
+What happens to clinical AI *after* deployment. Synthetic data only. No PHI, anywhere.
 
 <table>
 <tr>
@@ -171,6 +120,24 @@ Public research on what happens to clinical AI *after* deployment. Synthetic dat
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Epic-Clarity%20%C2%B7%20Caboodle%20%C2%B7%20Cogito-1e3a8a?style=flat-square" alt="Epic" />
+  <img src="https://img.shields.io/badge/SQL-1e3a8a?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-1e3a8a?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Databricks-1e3a8a?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/PySpark-1e3a8a?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-1e3a8a?style=flat-square" alt="Delta Lake" />
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-1e3a8a?style=flat-square" alt="Microsoft Fabric" />
+  <img src="https://img.shields.io/badge/dbt-1e3a8a?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Azure-1e3a8a?style=flat-square" alt="Azure" />
+  <img src="https://img.shields.io/badge/OMOP%20CDM-1e3a8a?style=flat-square" alt="OMOP CDM" />
+  <img src="https://img.shields.io/badge/FHIR-1e3a8a?style=flat-square" alt="FHIR" />
+  <img src="https://img.shields.io/badge/Power%20BI%20%C2%B7%20Tableau-1e3a8a?style=flat-square" alt="Power BI and Tableau" />
+  <img src="https://img.shields.io/badge/LLM%20eval-Claude%20%C2%B7%20GPT%20%C2%B7%20Gemini-1e3a8a?style=flat-square" alt="LLM evaluation" />
+  <img src="https://img.shields.io/badge/CSPO-1e3a8a?style=flat-square" alt="CSPO" />
+  <img src="https://img.shields.io/badge/Six%20Sigma%20Green%20Belt-1e3a8a?style=flat-square" alt="Six Sigma Green Belt" />
+</p>
 
 <br/>
 
