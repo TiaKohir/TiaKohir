@@ -12,7 +12,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3800&pause=1200&color=2DD4BF&center=true&vCenter=true&repeat=true&width=760&height=46&lines=Healthcare+AI+starts+with+the+clinician%2C+not+the+model.;Accuracy+is+a+model+metric.+Value+is+a+deployment+metric.;Ship+fewer+tools.+Measure+every+one+you+ship.;Epic+%E2%86%92+OMOP+%E2%86%92+evidence.+The+order+matters." />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3800&pause=1200&color=14B8A6&center=true&vCenter=true&repeat=true&width=760&height=46&lines=Healthcare+AI+starts+with+the+clinician%2C+not+the+model.;Accuracy+is+a+model+metric.+Value+is+a+deployment+metric.;Ship+fewer+tools.+Measure+every+one+you+ship.;Epic+%E2%86%92+OMOP+%E2%86%92+evidence.+The+order+matters." />
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3800&pause=1200&color=0F766E&center=true&vCenter=true&repeat=true&width=760&height=46&lines=Healthcare+AI+starts+with+the+clinician%2C+not+the+model.;Accuracy+is+a+model+metric.+Value+is+a+deployment+metric.;Ship+fewer+tools.+Measure+every+one+you+ship.;Epic+%E2%86%92+OMOP+%E2%86%92+evidence.+The+order+matters." alt="Healthcare AI starts with the clinician, not the model." />
   </picture>
 </p>
@@ -155,15 +155,15 @@ Taken at the door. Self-reported, verifiable.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TiaKohir&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&custom_title=Vitals&bg_color=00000000&title_color=2dd4bf&icon_color=2dd4bf&text_color=e5e7eb" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TiaKohir&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&custom_title=Vitals&bg_color=00000000&title_color=14b8a6&icon_color=14b8a6&text_color=9ca3af" />
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=TiaKohir&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&custom_title=Vitals&bg_color=00000000&title_color=0f766e&icon_color=0f766e&text_color=1f2937" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=TiaKohir&hide_border=true&background=00000000&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf&sideLabels=e5e7eb&currStreakNum=e5e7eb&sideNums=e5e7eb&dates=9ca3af&stroke=2dd4bf" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=TiaKohir&hide_border=true&background=00000000&ring=14b8a6&fire=14b8a6&currStreakLabel=14b8a6&sideLabels=9ca3af&currStreakNum=9ca3af&sideNums=9ca3af&dates=9ca3af&stroke=14b8a6" />
     <img height="170" src="https://streak-stats.demolab.com?user=TiaKohir&hide_border=true&background=00000000&ring=0f766e&fire=0f766e&currStreakLabel=0f766e&sideLabels=1f2937&currStreakNum=1f2937&sideNums=1f2937&dates=6b7280&stroke=0f766e" alt="Contribution streak" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TiaKohir&layout=compact&hide_border=true&hide=html&langs_count=8&custom_title=Languages%20on%20file&bg_color=00000000&title_color=2dd4bf&text_color=e5e7eb" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TiaKohir&layout=compact&hide_border=true&hide=html&langs_count=8&custom_title=Languages%20on%20file&bg_color=00000000&title_color=14b8a6&text_color=9ca3af" />
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiaKohir&layout=compact&hide_border=true&hide=html&langs_count=8&custom_title=Languages%20on%20file&bg_color=00000000&title_color=0f766e&text_color=1f2937" alt="Top languages" />
   </picture>
 </p>
@@ -181,7 +181,7 @@ Homegrown research on healthcare AI deployment, adoption, and impact measurement
 
 <a href="https://github.com/TiaKohir/-clinical-lakehouse-omop">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=-clinical-lakehouse-omop&show_owner=false&hide_border=true&bg_color=00000000&title_color=2dd4bf&icon_color=2dd4bf&text_color=e5e7eb" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=-clinical-lakehouse-omop&show_owner=false&hide_border=true&bg_color=00000000&title_color=14b8a6&icon_color=14b8a6&text_color=9ca3af" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=-clinical-lakehouse-omop&show_owner=false&hide_border=true&bg_color=00000000&title_color=0f766e&icon_color=0f766e&text_color=1f2937" alt="clinical-lakehouse-omop" />
 </picture>
 </a>
@@ -193,7 +193,7 @@ Homegrown research on healthcare AI deployment, adoption, and impact measurement
 
 <a href="https://github.com/TiaKohir/clinical-summary-eval">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=clinical-summary-eval&show_owner=false&hide_border=true&bg_color=00000000&title_color=2dd4bf&icon_color=2dd4bf&text_color=e5e7eb" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=clinical-summary-eval&show_owner=false&hide_border=true&bg_color=00000000&title_color=14b8a6&icon_color=14b8a6&text_color=9ca3af" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=clinical-summary-eval&show_owner=false&hide_border=true&bg_color=00000000&title_color=0f766e&icon_color=0f766e&text_color=1f2937" alt="clinical-summary-eval" />
 </picture>
 </a>
@@ -207,7 +207,7 @@ Homegrown research on healthcare AI deployment, adoption, and impact measurement
 
 <a href="https://github.com/TiaKohir/clinician-work-telemetry">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=clinician-work-telemetry&show_owner=false&hide_border=true&bg_color=00000000&title_color=2dd4bf&icon_color=2dd4bf&text_color=e5e7eb" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=clinician-work-telemetry&show_owner=false&hide_border=true&bg_color=00000000&title_color=14b8a6&icon_color=14b8a6&text_color=9ca3af" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=clinician-work-telemetry&show_owner=false&hide_border=true&bg_color=00000000&title_color=0f766e&icon_color=0f766e&text_color=1f2937" alt="clinician-work-telemetry" />
 </picture>
 </a>
@@ -219,7 +219,7 @@ Homegrown research on healthcare AI deployment, adoption, and impact measurement
 
 <a href="https://github.com/TiaKohir/clinician-alert-fatigue-adoption">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=clinician-alert-fatigue-adoption&show_owner=false&hide_border=true&bg_color=00000000&title_color=2dd4bf&icon_color=2dd4bf&text_color=e5e7eb" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=clinician-alert-fatigue-adoption&show_owner=false&hide_border=true&bg_color=00000000&title_color=14b8a6&icon_color=14b8a6&text_color=9ca3af" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=clinician-alert-fatigue-adoption&show_owner=false&hide_border=true&bg_color=00000000&title_color=0f766e&icon_color=0f766e&text_color=1f2937" alt="clinician-alert-fatigue-adoption" />
 </picture>
 </a>
@@ -233,7 +233,7 @@ Homegrown research on healthcare AI deployment, adoption, and impact measurement
 
 <a href="https://github.com/TiaKohir/Healthcare-Fabric-Analytics">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=Healthcare-Fabric-Analytics&show_owner=false&hide_border=true&bg_color=00000000&title_color=2dd4bf&icon_color=2dd4bf&text_color=e5e7eb" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=Healthcare-Fabric-Analytics&show_owner=false&hide_border=true&bg_color=00000000&title_color=14b8a6&icon_color=14b8a6&text_color=9ca3af" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=Healthcare-Fabric-Analytics&show_owner=false&hide_border=true&bg_color=00000000&title_color=0f766e&icon_color=0f766e&text_color=1f2937" alt="Healthcare-Fabric-Analytics" />
 </picture>
 </a>
@@ -245,7 +245,7 @@ Homegrown research on healthcare AI deployment, adoption, and impact measurement
 
 <a href="https://tiakohir.github.io/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=tiakohir.github.io&show_owner=false&hide_border=true&bg_color=00000000&title_color=2dd4bf&icon_color=2dd4bf&text_color=e5e7eb" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=tiakohir.github.io&show_owner=false&hide_border=true&bg_color=00000000&title_color=14b8a6&icon_color=14b8a6&text_color=9ca3af" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=tiakohir.github.io&show_owner=false&hide_border=true&bg_color=00000000&title_color=0f766e&icon_color=0f766e&text_color=1f2937" alt="tiakohir.github.io" />
 </picture>
 </a>
