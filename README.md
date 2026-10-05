@@ -6,8 +6,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3800&pause=1400&color=22D3EE&center=true&vCenter=true&repeat=true&width=720&height=46&lines=Accuracy+is+a+model+metric.+ROI+is+a+hospital+metric.;Healthcare+AI+starts+with+the+clinician%2C+not+the+model." />
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3800&pause=1400&color=0E7490&center=true&vCenter=true&repeat=true&width=720&height=46&lines=Accuracy+is+a+model+metric.+ROI+is+a+hospital+metric.;Healthcare+AI+starts+with+the+clinician%2C+not+the+model." alt="Accuracy is a model metric. ROI is a hospital metric." />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3800&pause=1400&color=34D399&center=true&vCenter=true&repeat=true&width=720&height=46&lines=Accuracy+is+a+model+metric.+ROI+is+a+hospital+metric.;Healthcare+AI+starts+with+the+clinician%2C+not+the+model." />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3800&pause=1400&color=047857&center=true&vCenter=true&repeat=true&width=720&height=46&lines=Accuracy+is+a+model+metric.+ROI+is+a+hospital+metric.;Healthcare+AI+starts+with+the+clinician%2C+not+the+model." alt="Accuracy is a model metric. ROI is a hospital metric." />
   </picture>
 </p>
 
@@ -58,8 +58,8 @@ What happens to clinical AI *after* deployment. Synthetic data only. No PHI, any
 
 <a href="https://github.com/TiaKohir/-clinical-lakehouse-omop">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=-clinical-lakehouse-omop&show_owner=false&hide_border=true&bg_color=00000000&title_color=34d399&icon_color=34d399&text_color=9ca3af" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=-clinical-lakehouse-omop&show_owner=false&hide_border=true&bg_color=00000000&title_color=047857&icon_color=047857&text_color=1f2937" alt="clinical-lakehouse-omop" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=-clinical-lakehouse-omop&show_owner=false&hide_border=true&bg_color=00000000&title_color=60a5fa&icon_color=60a5fa&text_color=9ca3af" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=-clinical-lakehouse-omop&show_owner=false&hide_border=true&bg_color=00000000&title_color=1e40af&icon_color=1e40af&text_color=1f2937" alt="clinical-lakehouse-omop" />
 </picture>
 </a>
 
@@ -84,8 +84,8 @@ What happens to clinical AI *after* deployment. Synthetic data only. No PHI, any
 
 <a href="https://github.com/TiaKohir/clinician-work-telemetry">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=clinician-work-telemetry&show_owner=false&hide_border=true&bg_color=00000000&title_color=fbbf24&icon_color=fbbf24&text_color=9ca3af" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=clinician-work-telemetry&show_owner=false&hide_border=true&bg_color=00000000&title_color=b45309&icon_color=b45309&text_color=1f2937" alt="clinician-work-telemetry" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=clinician-work-telemetry&show_owner=false&hide_border=true&bg_color=00000000&title_color=34d399&icon_color=34d399&text_color=9ca3af" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=clinician-work-telemetry&show_owner=false&hide_border=true&bg_color=00000000&title_color=047857&icon_color=047857&text_color=1f2937" alt="clinician-work-telemetry" />
 </picture>
 </a>
 
@@ -96,8 +96,8 @@ What happens to clinical AI *after* deployment. Synthetic data only. No PHI, any
 
 <a href="https://github.com/TiaKohir/clinician-alert-fatigue-adoption">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=clinician-alert-fatigue-adoption&show_owner=false&hide_border=true&bg_color=00000000&title_color=fb7185&icon_color=fb7185&text_color=9ca3af" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=clinician-alert-fatigue-adoption&show_owner=false&hide_border=true&bg_color=00000000&title_color=be123c&icon_color=be123c&text_color=1f2937" alt="clinician-alert-fatigue-adoption" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=clinician-alert-fatigue-adoption&show_owner=false&hide_border=true&bg_color=00000000&title_color=fbbf24&icon_color=fbbf24&text_color=9ca3af" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TiaKohir&repo=clinician-alert-fatigue-adoption&show_owner=false&hide_border=true&bg_color=00000000&title_color=b45309&icon_color=b45309&text_color=1f2937" alt="clinician-alert-fatigue-adoption" />
 </picture>
 </a>
 
@@ -122,21 +122,21 @@ What happens to clinical AI *after* deployment. Synthetic data only. No PHI, any
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Epic-Clarity%20%C2%B7%20Caboodle%20%C2%B7%20Cogito-0e7490?style=flat-square" alt="Epic" />
-  <img src="https://img.shields.io/badge/SQL-0e7490?style=flat-square" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-047857?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Databricks-047857?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
-  <img src="https://img.shields.io/badge/PySpark-047857?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
-  <img src="https://img.shields.io/badge/Delta%20Lake-047857?style=flat-square" alt="Delta Lake" />
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-047857?style=flat-square" alt="Microsoft Fabric" />
-  <img src="https://img.shields.io/badge/dbt-047857?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/Azure-047857?style=flat-square" alt="Azure" />
-  <img src="https://img.shields.io/badge/OMOP%20CDM-0e7490?style=flat-square" alt="OMOP CDM" />
-  <img src="https://img.shields.io/badge/FHIR-0e7490?style=flat-square" alt="FHIR" />
-  <img src="https://img.shields.io/badge/Power%20BI%20%C2%B7%20Tableau-047857?style=flat-square" alt="Power BI and Tableau" />
-  <img src="https://img.shields.io/badge/LLM%20eval-Claude%20%C2%B7%20GPT%20%C2%B7%20Gemini-6d28d9?style=flat-square" alt="LLM evaluation" />
-  <img src="https://img.shields.io/badge/CSPO-be123c?style=flat-square" alt="CSPO" />
-  <img src="https://img.shields.io/badge/Six%20Sigma%20Green%20Belt-be123c?style=flat-square" alt="Six Sigma Green Belt" />
+  <img src="https://img.shields.io/badge/Epic-Clarity%20%C2%B7%20Caboodle%20%C2%B7%20Cogito-155e75?style=flat-square" alt="Epic" />
+  <img src="https://img.shields.io/badge/SQL-155e75?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-1e40af?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Databricks-1e40af?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/PySpark-1e40af?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-1e40af?style=flat-square" alt="Delta Lake" />
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-1e40af?style=flat-square" alt="Microsoft Fabric" />
+  <img src="https://img.shields.io/badge/dbt-1e40af?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Azure-1e40af?style=flat-square" alt="Azure" />
+  <img src="https://img.shields.io/badge/OMOP%20CDM-155e75?style=flat-square" alt="OMOP CDM" />
+  <img src="https://img.shields.io/badge/FHIR-155e75?style=flat-square" alt="FHIR" />
+  <img src="https://img.shields.io/badge/Power%20BI%20%C2%B7%20Tableau-1e40af?style=flat-square" alt="Power BI and Tableau" />
+  <img src="https://img.shields.io/badge/LLM%20eval-Claude%20%C2%B7%20GPT%20%C2%B7%20Gemini-5b21b6?style=flat-square" alt="LLM evaluation" />
+  <img src="https://img.shields.io/badge/CSPO-065f46?style=flat-square" alt="CSPO" />
+  <img src="https://img.shields.io/badge/Six%20Sigma%20Green%20Belt-065f46?style=flat-square" alt="Six Sigma Green Belt" />
 </p>
 
 <br/>
